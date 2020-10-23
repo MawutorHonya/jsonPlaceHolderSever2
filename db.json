@@ -1,146 +1,144 @@
-[
-  {
-    "activities": [
-      {
-        "id": "1",
-        "img": "http://localhost/www/assets/steehold/images/disarm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Disarmed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "2",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Camera Backyard Turned to No Motion",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "3",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "4",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "5",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "6",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "7",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "8",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "9",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "10",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "11",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "12",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "13",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "14",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "15",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "16",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "17",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "18",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "19",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      },
-      {
-        "id": "20",
-        "img": "http://localhost/www/assets/steehold/images/arm.png",
-        "title": "17th October 2019",
-        "t_body": "Alarm Set to Armed",
-        "note": "Thurs, 17th October 23:42"
-      }
-    ]
-  }
+{
+  "activities": [
+    {
+      "id": "1",
+      "img": "http://localhost/www/assets/steehold/images/disarm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Disarmed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "2",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Camera Backyard Turned to No Motion",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "3",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "4",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "5",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "6",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "7",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "8",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "9",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "10",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "11",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "12",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "13",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "14",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "15",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "16",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "17",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "18",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "19",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    },
+    {
+      "id": "20",
+      "img": "http://localhost/www/assets/steehold/images/arm.png",
+      "title": "17th October 2019",
+      "t_body": "Alarm Set to Armed",
+      "note": "Thurs, 17th October 23:42"
+    }
   ]
+}
