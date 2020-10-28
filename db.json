@@ -140,14 +140,15 @@
       "t_body": "Alarm Set to Armed",
       "note": "Thurs, 17th October 23:42"
     }
-  ],
-  "messages": [
+  ]
+},
+{  "messages": [
     {
       "id": "1",
       "icon": "credit-card",
       "icon_src": "Feather",
       "title": "Subscribtion",
-      "t_body": "Your subscription is due",
+      "m_body": "Your subscription is due",
       "time": "Thurs, 17th October 23:42"
     },
     {
@@ -155,7 +156,7 @@
       "icon": "credit-card",
       "icon_src": "Feather",
       "title": "Subscribtion",
-      "t_body": "Your subscription is due",
+      "m_body": "Your subscription is due",
       "time": "Thurs, 17th October 23:42"
     },
     {
@@ -163,7 +164,7 @@
       "icon": "credit-card",
       "icon_src": "Feather",
       "title": "Subscribtion",
-      "t_body": "Your subscription is due",
+      "m_body": "Your subscription is due",
       "time": "Thurs, 17th October 23:42"
     },
     {
@@ -171,7 +172,7 @@
       "icon": "credit-card",
       "icon_src": "Feather",
       "title": "Subscribtion",
-      "t_body": "Your subscription is due",
+      "m_body": "Your subscription is due",
       "time": "Thurs, 17th October 23:42"
     },    
     {
@@ -179,7 +180,7 @@
       "icon": "credit-card",
       "icon_src": "Feather",
       "title": "Subscribtion",
-      "t_body": "Your subscription is due",
+      "m_body": "Your subscription is due",
       "time": "Thurs, 17th October 23:42"
     },    
   ]
