@@ -322,31 +322,4 @@
       "date": "Thurs, 17th October 2020",
       "time": "23:42"
     }
-  ],
-    "settings": [
-    {
-      "user": [
-        {
-          "first_name": "Mawutor",
-          "last_name": "Honya",
-          "email": "mawutorh@gmail.com",
-          "phone_no": "+233574190284",
-          "photo":"https://steehold.com/img/sss/photoid1.png",
-          
-        }
-      ],
-      "subscription":[
-        {
-          "pacakage":"Classic Package",
-          "package_img": "https://steehold.com/img/sss/sub_cp_bg.png"
-        }
-      ],
-      "configuration":[
-        {
-          "wifi_stream_only":"true",
-          "stream_quality":"HD",
-        }
-      ]
-    }
   ]
-}
