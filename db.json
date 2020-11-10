@@ -325,6 +325,15 @@
   ],
     "settings": [
     {
+      "links": [
+        {
+          "facebookLink": "https://www.facebook.com/steehold",
+          "instagramLink": "https://www.instagram.com/steehold.ghana/",
+          "twitterLink": "https://twitter.com/SteeholdGhana",
+          "linkedInLink": "https://www.linkedin.com/company/steehold/",
+          "mailTo": "mailto:enquiry@steehold.com"
+        }
+      ],
       "user": [
         {
           "first_name": "Mawutor",
