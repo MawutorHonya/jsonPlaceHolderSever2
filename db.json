@@ -336,13 +336,13 @@
       ],
       "subscription":[
         {
-          "pacakage": "Classic Package",
+          "package": "Classic Package",
           "package_img": "https://steehold.com/img/sss/sub_cp_bg.png"
         }
       ],
       "configuration":[
         {
-          "wifi_stream_only": "true",
+          "wifi_stream_only": true,
           "stream_quality":"HD"
         }
       ]
