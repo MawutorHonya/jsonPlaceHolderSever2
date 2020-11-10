@@ -332,8 +332,8 @@
           "twitterLink": "https://twitter.com/SteeholdGhana",
           "linkedInLink": "https://www.linkedin.com/company/steehold/",
           "mailTo": "mailto:enquiry@steehold.com",
-          "rateUsIos": 'market://details?id=',
-          "rateUsAndroid": 'itms://itunes.apple.com/in/app/apple-store/',
+          "rateUsIos": "market://details?id=",
+          "rateUsAndroid": "itms://itunes.apple.com/in/app/apple-store/",
         }
       ],
       "user": [
