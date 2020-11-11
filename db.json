@@ -338,6 +338,8 @@
       ],
       "user": [
         {
+          "id":"1",
+          "user_id":"1",
           "first_name": "Mawutor",
           "last_name": "Honya",
           "email": "mawutorh@gmail.com",
@@ -347,12 +349,16 @@
       ],
       "subscription":[
         {
+          "id":"1",
+          "user_id":"1",
           "package": "Classic Package",
           "package_img": "https://steehold.com/img/sss/sub_cp_bg.png"
         }
       ],
       "configuration":[
         {
+          "id":"1",
+          "user_id":"1",
           "wifi_stream_only": true,
           "stream_quality":"HD"
         }
