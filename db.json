@@ -136,48 +136,7 @@
       "t_body": "Alarm Set to Armed",
       "datetime": "Thurs, 17th October 23:42"
     },
-    {
-      "id": "15",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    },
-    {
-      "id": "16",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    },
-    {
-      "id": "17",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    },
-    {
-      "id": "18",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    },
-    {
-      "id": "19",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    },
-    {
-      "id": "20",
-      "img": "https://steehold.com/img/sss/arm.png",
-      "title": "17th October 2019",
-      "t_body": "Alarm Set to Armed",
-      "datetime": "Thurs, 17th October 23:42"
-    }
+
   ],
     "messages": [
     {
@@ -306,60 +265,6 @@
       "date": "Thurs, 17th October 2020",
       "time": "23:42"
     },
-    {
-      "id": "15",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    },
-    {
-      "id": "16",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    },
-    {
-      "id": "17",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    },
-    {
-      "id": "18",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    },
-    {
-      "id": "19",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    },
-    {
-      "id": "20",
-      "icon": "credit-card",
-      "icon_src": "Feather",
-      "title": "Subscribtion",
-      "m_body": "Your subscription is due",
-      "date": "Thurs, 17th October 2020",
-      "time": "23:42"
-    }
   ],
     "settings": [
     {
