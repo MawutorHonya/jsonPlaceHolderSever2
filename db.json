@@ -4,31 +4,31 @@
       "id": "1",
       "hd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/101",
       "sd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/102",
-      "cam_label": "Camera 1",
+      "cam_label": "Camera 1"
     },
     {
       "id": "2",
       "hd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1001",
       "sd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1002",
-      "cam_label": "Camera 2",
+      "cam_label": "Camera 2"
     },
     {
       "id": "3",
       "hd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1101",
       "sd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1102",
-      "cam_label": "Camera 3",
+      "cam_label": "Camera 3"
     },
     {
       "id": "4",
       "hd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/101",
       "sd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/102",
-      "cam_label": "Camera 4",
+      "cam_label": "Camera 4"
     },
     {
       "id": "5",
       "hd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1001",
       "sd_stream": "rtsp://admin:total2020@41.190.70.83:554/Streaming/channels/1002",
-      "cam_label": "Camera 5",
+      "cam_label": "Camera 5"
     }
     ],
   "activities": [
